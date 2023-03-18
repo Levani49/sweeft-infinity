@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sweeft-infinity/static/css/main.4f1dbdca.chunk.css",
+    "main.js": "/sweeft-infinity/static/js/main.dab0a90d.chunk.js",
+    "main.js.map": "/sweeft-infinity/static/js/main.dab0a90d.chunk.js.map",
+    "runtime-main.js": "/sweeft-infinity/static/js/runtime-main.ac044ad3.js",
+    "runtime-main.js.map": "/sweeft-infinity/static/js/runtime-main.ac044ad3.js.map",
+    "static/js/2.3529523b.chunk.js": "/sweeft-infinity/static/js/2.3529523b.chunk.js",
+    "static/js/2.3529523b.chunk.js.map": "/sweeft-infinity/static/js/2.3529523b.chunk.js.map",
+    "index.html": "/sweeft-infinity/index.html",
+    "static/css/main.4f1dbdca.chunk.css.map": "/sweeft-infinity/static/css/main.4f1dbdca.chunk.css.map",
+    "static/js/2.3529523b.chunk.js.LICENSE.txt": "/sweeft-infinity/static/js/2.3529523b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac044ad3.js",
+    "static/js/2.3529523b.chunk.js",
+    "static/css/main.4f1dbdca.chunk.css",
+    "static/js/main.dab0a90d.chunk.js"
+  ]
+}
